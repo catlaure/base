@@ -1,0 +1,15 @@
+# Foundry
+out/
+cache/
+broadcast/
+lib/
+
+# Node
+node_modules/
+cli/dist/
+*.log
+
+# Env
+.env
+.env.*
+!.env.example
